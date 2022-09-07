@@ -3,6 +3,7 @@ import time
 nowT = time.ctime()
 ver = 1.0
 verAge = 0
+creator = "Krishna"
 
 qna = {
     "hi":"hey",
@@ -11,6 +12,8 @@ qna = {
     "how old are you" :  verAge ,
     "what is your version":  ver ,
     "what is the time now ?": nowT,
+    "Who is your creator ?": Vyoam,
+    "Who is your cretors creator ?": creator,
 }
 
 while True:
