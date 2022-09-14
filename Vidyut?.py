@@ -1,7 +1,7 @@
 import string
 import metaplot
 
-name = "VIDYUT"
+name = "VIDYUT ?"
 import time
 nowT = time.ctime()
 ver = 1.0
