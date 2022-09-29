@@ -1,4 +1,4 @@
-name = "VIDYUT"
+name = "VIDYUT chat bot"
 import time
 nowT = time.ctime()
 ver = 1.0
