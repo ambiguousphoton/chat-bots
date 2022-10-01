@@ -3,7 +3,7 @@ import time
 nowT = time.ctime()
 ver = 1.0
 verAge = 0
-creator = "Krishna"
+creator = "Krishna ji"
 
 qna = {
     "hi":"hey",
