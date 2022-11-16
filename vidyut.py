@@ -18,7 +18,7 @@ qna = {
 
 while True:
     qs = input()
-    if(qs == "quit"):
+    if(qs == "quit" or qs == "q" or qs = "QUIT"):
         break
     else:
         print(qna[qs])
